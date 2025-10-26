@@ -1,5 +1,6 @@
 # QPoland-Hackathon
 Quantum Kernel Methods for Molecular Classification 
+video explanation- https://drive.google.com/file/d/1rYQtFwgPOplyPN3nsYAjceQRI8MYTxLE/view?usp=sharing
 ## Hierarchical Topological Quantum Graph Kernels
 
 ---
