@@ -114,6 +114,6 @@ For dataset D = {G₁, ..., Gₙ}, we construct:
 ```
 K_{ij} = |⟨ψ(Gᵢ)|ψ(Gⱼ)⟩|²
 
-
+Note: This repository will be evolving continuously
 
 
