@@ -8,6 +8,9 @@ Theme: Crafting Quantum-Inspired Feature Maps for Graph Kernels in Molecular Mac
 
 # [PPT](https://drive.google.com/file/d/1c76_NXuMKMVjhqJ0eWfoCSk6JRkooxtf/view?usp=drive_link)
 
+# Citations  
+Townsend, J., Micucci, C.P., Hymel, J.H. et al. Representation of molecular structures with persistent homology for machine learning applications in chemistry. Nat Commun 11, 3230 (2020). https://doi.org/10.1038/s41467-020-17035-5  
+
 ## Hierarchical Topological Quantum Graph Kernels
 
 ## 1. Mathematical Foundation
@@ -115,7 +118,6 @@ For dataset D = {G₁, ..., Gₙ}, we construct:
 K_{ij} = |⟨ψ(Gᵢ)|ψ(Gⱼ)⟩|²
 
 Note: This repository will be evolving continuously
-**Citations**
-Townsend, J., Micucci, C.P., Hymel, J.H. et al. Representation of molecular structures with persistent homology for machine learning applications in chemistry. Nat Commun 11, 3230 (2020). https://doi.org/10.1038/s41467-020-17035-5  
+
 
 
