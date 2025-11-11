@@ -10,6 +10,9 @@ Theme: Crafting Quantum-Inspired Feature Maps for Graph Kernels in Molecular Mac
 
 # Citations  
 Townsend, J., Micucci, C.P., Hymel, J.H. et al. Representation of molecular structures with persistent homology for machine learning applications in chemistry. Nat Commun 11, 3230 (2020). https://doi.org/10.1038/s41467-020-17035-5  
+Lloyd, S., Garnerone, S. & Zanardi, P. Quantum algorithms for topological and geometric analysis of data. Nat Commun 7, 10138 (2016). https://doi.org/10.1038/ncomms10138  
+https://arxiv.org/pdf/2307.07383
+
 
 ## Hierarchical Topological Quantum Graph Kernels
 
